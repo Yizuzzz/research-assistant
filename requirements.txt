@@ -1,0 +1,10 @@
+langgraph
+langchain-core
+langchain-openai
+langchain-community
+langchain-tavily
+wikipedia
+python-dotenv
+rich
+# Historial en Supabase (Postgres)
+psycopg[binary,pool]
