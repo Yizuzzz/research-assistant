@@ -7,6 +7,12 @@ Al final se genera un reporte en Markdown con introducción, hallazgos, conclusi
 
 El reporte sale en el idioma del tema, español o inglés. El asistente solo acepta temas de investigación: rechaza peticiones de código, traducciones, conversación y otros usos.
 
+## Demo
+
+![Demo del Research Assistant](demo/demo.gif)
+
+Sesión real con el tema *Impacto de la inteligencia artificial en la educación en México* y 2 analistas. Las esperas largas se recortaron y se aceleró la reproducción. La grabación original está en [`demo/demo.cast`](demo/demo.cast) y se reproduce con `asciinema play demo/demo.cast`.
+
 ## Instalación
 
 ```bash
